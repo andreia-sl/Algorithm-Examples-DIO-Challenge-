@@ -1,0 +1,16 @@
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2.deps.json
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2.runtimeconfig.json
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2.runtimeconfig.dev.json
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2.dll
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/ref/Challenge2.dll
+/home/ahjs-666/Documentos/workspace/Challenge2/bin/Debug/net5.0/Challenge2.pdb
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.csprojAssemblyReference.cache
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.AssemblyInfoInputs.cache
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.AssemblyInfo.cs
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.csproj.CoreCompileInputs.cache
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.dll
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/ref/Challenge2.dll
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.pdb
+/home/ahjs-666/Documentos/workspace/Challenge2/obj/Debug/net5.0/Challenge2.genruntimeconfig.cache

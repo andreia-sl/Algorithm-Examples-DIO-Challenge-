@@ -2,11 +2,11 @@
 
 ## c#
 
-### <a href="">Average Fuel Consumption</a>
+### <a href="https://github.com/andreia-sl/Algorithm-Examples-DIO-Challenge-/tree/master/csharp/Challenge1pt1">Average Fuel Consumption</a>
 
 You will receive two values: an integer X with the travelled distance (km) and a real value Y that represents the total fuel consumed (with one digit after the decimal point). The output is the value of the average consumption of the vehicle (km / l).
 
-### <a href="">Area Telephone Codes (Brazil)</a>
+### <a href="https://github.com/andreia-sl/Algorithm-Examples-DIO-Challenge-/tree/master/csharp/Challenge1pt2">Area Telephone Codes (Brazil)</a>
 
 Read an integer that represents an area telephone code in Brazil (DDD) for long distance dialing. Then, inform which city the DDD belongs to, considering the table below:
 
@@ -48,8 +48,7 @@ Read an integer that represents an area telephone code in Brazil (DDD) for long 
         <td>Belo Horizonte</td>
     </tr>   
 </table>
-
-### <a href=""> Salary Increase</a>
+### <a href="https://github.com/andreia-sl/Algorithm-Examples-DIO-Challenge-/tree/master/csharp/Challenge1pt3"> Salary Increase</a>
 
 Receives the amount of the salary and calculates the salary increase according to the conditions listed:
 
@@ -79,7 +78,9 @@ Receives the amount of the salary and calculates the salary increase according t
         <td>4%</th>
     </tr>
 </table>
+### <a href="https://github.com/andreia-sl/Algorithm-Examples-DIO-Challenge-/tree/master/csharp/Challenge2">Series and Movies Registration Algorithm</a>
 
+Registration system for series and movies. List, Input, Update, View and Delete operations. 
 
 
 
